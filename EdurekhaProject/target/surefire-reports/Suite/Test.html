@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>6/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat Jun 15 17:21:44 MDT 2024</td>
+</tr>
+<tr><td>Total time:</td><td>55 seconds (55463 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='runner.UserNameValidate.runScenario()'><b>runScenario</b><br>Test class: runner.UserNameValidate<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Successful Login to the application", "Login functionality realted test cases"</td>
+<td></td>
+<td>8</td>
+<td>runner.UserNameValidate@1b1473ab</td></tr>
+<tr>
+<td title='runner.HomePageValidation.runScenario()'><b>runScenario</b><br>Test class: runner.HomePageValidation<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Successfully move to DemoBlaze Home Page", "Home Page related features"</td>
+<td></td>
+<td>8</td>
+<td>runner.HomePageValidation@7f552bd3</td></tr>
+<tr>
+<td title='runner.UserNameValidate.runScenario()'><b>runScenario</b><br>Test class: runner.UserNameValidate<br>Test method: Runs Cucumber Scenarios<br>Parameters: "To verify that the user enters the valid user name", "Login functionality realted test cases"</td>
+<td></td>
+<td>7</td>
+<td>runner.UserNameValidate@1b1473ab</td></tr>
+<tr>
+<td title='runner.LoginValidation.runScenario()'><b>runScenario</b><br>Test class: runner.LoginValidation<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Valid Login Functionality", "Login functionality related feature"</td>
+<td></td>
+<td>10</td>
+<td>runner.LoginValidation@149e0f5d</td></tr>
+<tr>
+<td title='runner.LoginValidation.runScenario()'><b>runScenario</b><br>Test class: runner.LoginValidation<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Invalid Login Functionality", "Login functionality related feature"</td>
+<td></td>
+<td>9</td>
+<td>runner.LoginValidation@149e0f5d</td></tr>
+<tr>
+<td title='runner.SignUpValidation.runScenario()'><b>runScenario</b><br>Test class: runner.SignUpValidation<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Registration functionality", "Registration related feature"<br/>
+<a href="#Output-1311004473" onClick='toggleBox("Output-1311004473", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1311004473" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1311004473">
+Launching the webpagehttps://www.demoblaze.com/<br/>
+Click the login buttonRemoteWebDriver: firefox on Windows 11 (2ae531ca-4d14-4976-9828-0bb630fb9c9d)<br/>
+Enter the detailsBy.id: sign-usernametestusr3<br/>
+Enter the detailsBy.id: sign-passwordpassword1<br/>
+Click the login buttonRemoteWebDriver: firefox on Windows 11 (2ae531ca-4d14-4976-9828-0bb630fb9c9d)<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>runner.SignUpValidation@2f7c2f4f</td></tr>
+</table><p>
+</body>
+</html>

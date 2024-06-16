@@ -1,0 +1,307 @@
+2024-06-06 16:02:17 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:02:17 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:02:20 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:02:23 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:02:23 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:02:23 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:02:23 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:02:25 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:02:27 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:02:27 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:02:28 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:02:30 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:02:30 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:02:35 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:02:37 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:02:37 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:02:37 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:02:37 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:02:39 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:02:41 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:02:41 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:02:42 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:02:42 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:02:44 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:11:03 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:11:03 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:11:06 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:11:09 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:11:09 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:11:09 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:11:09 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:11:12 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:11:14 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:11:14 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:11:14 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:11:17 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:11:17 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:11:21 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:11:24 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:11:24 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:11:24 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:11:24 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:11:27 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:11:30 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:11:30 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:11:30 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:11:30 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:11:32 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:11:43 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:11:43 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:11:43 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:12:36 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:12:36 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:12:38 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:12:41 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:12:41 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:12:41 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:12:41 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:12:43 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:12:46 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:12:46 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:12:46 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:12:49 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:12:49 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:12:53 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:12:55 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:12:55 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:12:55 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:12:56 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:12:58 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:13:00 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:13:00 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:13:00 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:13:00 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:13:02 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:13:03 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:13:03 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:13:03 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:31:39 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:31:39 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:31:42 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:31:45 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:31:45 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:31:45 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:31:45 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:31:47 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:31:49 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:31:49 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:31:50 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:31:52 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:31:52 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:31:57 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:31:59 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:31:59 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:31:59 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:31:59 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:32:01 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:32:04 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:32:04 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:32:04 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:32:04 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:32:06 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:32:07 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:32:07 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:32:07 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:32:39 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:32:39 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:32:44 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:32:48 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:32:48 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:32:48 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:32:48 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:32:53 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:32:56 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:32:56 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:32:56 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:33:01 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:33:02 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:33:09 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:33:11 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:33:11 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:33:11 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:33:12 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:33:18 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:33:20 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:33:20 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:33:20 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:33:21 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():35 - By.id: logout2
+2024-06-06 16:33:26 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:33:27 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:33:27 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:33:27 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:38:16 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:38:16 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:38:21 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:38:25 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:38:25 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:38:25 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:38:25 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:38:26 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:38:31 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:38:33 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:38:33 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:38:33 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:38:38 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:38:39 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:38:46 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:38:48 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:38:48 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:38:48 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:38:49 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:38:49 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:38:55 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:38:57 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:38:57 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:38:57 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:38:58 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:39:04 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:39:05 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:39:05 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:39:05 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:40:40 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:40:40 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:40:45 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:40:48 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:40:48 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:40:48 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:40:48 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:40:49 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:40:54 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:40:57 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:40:57 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:40:57 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:41:02 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:41:03 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:41:10 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:41:12 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:41:12 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:41:12 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:41:12 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:41:13 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:41:18 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:41:21 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:41:21 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:41:21 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:41:21 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:41:26 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:41:27 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:41:27 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:41:27 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:42:59 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:43:00 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:43:09 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:43:12 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:43:12 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:43:12 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:43:28 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:44:31 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:45:07 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:45:09 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana2019
+2024-06-06 16:45:10 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:45:10 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:45:38 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:47:26 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:47:27 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:47:34 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:47:36 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:47:36 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:47:36 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:47:36 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:47:37 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:48:24 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:48:24 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:48:30 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:48:33 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:48:33 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:48:33 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:48:33 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:48:34 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:48:39 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:48:41 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:48:41 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:48:41 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:48:47 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:48:47 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:48:54 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:48:57 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:48:57 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:48:57 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:48:57 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:48:58 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:49:03 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:49:04 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:49:04 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:49:04 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-06 16:54:03 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-06 16:54:03 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-06 16:54:08 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:54:12 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:54:12 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:54:12 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:54:12 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:54:13 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:54:18 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:54:20 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-06 16:54:20 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-06 16:54:20 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:54:26 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:54:26 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:54:33 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-06 16:54:35 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-06 16:54:35 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-06 16:54:35 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-06 16:54:36 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-06 16:54:36 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-06 16:54:42 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-06 16:54:42 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-06 16:54:42 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-06 16:54:42 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-15 17:17:48 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-15 17:17:48 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-15 17:17:53 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:17:57 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:17:57 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-15 17:17:57 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:17:57 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-15 17:17:58 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-15 17:18:04 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:18:06 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-15 17:18:06 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-15 17:18:07 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:18:11 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:18:12 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:18:19 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:18:21 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:18:21 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-15 17:18:21 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:18:22 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-15 17:18:23 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-15 17:18:28 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-15 17:18:28 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-15 17:18:28 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-15 17:18:28 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']
+2024-06-15 17:21:53 DEBUG DemoBlazeHomePageclassandhomePageValidation():28 - PRODUCT STORE
+2024-06-15 17:21:53 DEBUG DemoBlazeHomePageclassandhomePageValidation():30 - true
+2024-06-15 17:21:59 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:22:02 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:22:02 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-15 17:22:02 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:22:03 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-15 17:22:03 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-15 17:22:09 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:22:12 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Anjana
+2024-06-15 17:22:12 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - XYZ456
+2024-06-15 17:22:12 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:22:17 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:22:18 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:22:25 DEBUG DemoBlazeLoginPageclassandclickloginlink():33 - By.xpath: //a[@id='login2']
+2024-06-15 17:22:27 DEBUG DemoBlazeLoginPageclassandenterusername(String name):42 - Aditi2013
+2024-06-15 17:22:27 DEBUG DemoBlazeLoginPageclassandenterpassword(String key):50 - ABC123
+2024-06-15 17:22:27 DEBUG DemoBlazeLoginPageclassandclickloginbutton():58 - By.xpath: //button[text()='Log in']
+2024-06-15 17:22:28 DEBUG DemoBlazeLogoutPageclassandislogoutdisplayed():39 - By.id: logout2
+2024-06-15 17:22:28 DEBUG DemoBlazeLogoutPageclassandsuccessfullLoginValidation():50 - By.xpath: //a[@id='nameofuser']
+2024-06-15 17:22:35 DEBUG SignUpPageclassandclickSignUpLink():35 - By.xpath: //a[@id='signin2']
+2024-06-15 17:22:35 DEBUG SignUpPageclassandregister():48 - By.id: sign-username
+2024-06-15 17:22:35 INFO SignUpPageclassandregister():49 - By.id: sign-password
+2024-06-15 17:22:35 FATAL SignUpPageclassandregister():50 - By.xpath: //button[text()='Sign up']

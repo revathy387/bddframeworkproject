@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching the webpagehttps://www.demoblaze.com/]]>
+    </line>
+    <line>
+      <![CDATA[Click the login buttonRemoteWebDriver: firefox on Windows 11 (4c870ecf-ce6a-4790-a398-ab12aa30f961)]]>
+    </line>
+    <line>
+      <![CDATA[Enter the detailsBy.id: sign-usernametestusr3]]>
+    </line>
+    <line>
+      <![CDATA[Enter the detailsBy.id: sign-passwordpassword1]]>
+    </line>
+    <line>
+      <![CDATA[Click the login buttonRemoteWebDriver: firefox on Windows 11 (4c870ecf-ce6a-4790-a398-ab12aa30f961)]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-06T16:48:16 MDT" name="Suite" finished-at="2024-06-06T16:49:07 MDT" duration-ms="50934">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HomePageValidation@fa4c865]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginValidation@5e5d171f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.SignUpValidation@7d20d0b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UserNameValidate@24313fcc]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-06-06T16:48:16 MDT" name="Test" finished-at="2024-06-06T16:49:07 MDT" duration-ms="50934">
+      <class name="runner.HomePageValidation">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.HomePageValidation@fa4c865]" started-at="2024-06-06T16:48:16 MDT" name="setUpClass" finished-at="2024-06-06T16:48:17 MDT" duration-ms="559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6cbb175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HomePageValidation@fa4c865]" started-at="2024-06-06T16:48:17 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:48:25 MDT" duration-ms="8310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successfully move to DemoBlaze Home Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Page related features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.HomePageValidation@fa4c865]" started-at="2024-06-06T16:48:25 MDT" name="tearDownClass" finished-at="2024-06-06T16:48:25 MDT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.HomePageValidation -->
+      <class name="runner.LoginValidation">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.LoginValidation@5e5d171f]" started-at="2024-06-06T16:48:25 MDT" name="setUpClass" finished-at="2024-06-06T16:48:25 MDT" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6cbb175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginValidation@5e5d171f]" started-at="2024-06-06T16:48:25 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:48:35 MDT" duration-ms="9772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Valid Login Functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login functionality related feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.LoginValidation@5e5d171f]" started-at="2024-06-06T16:48:35 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:48:43 MDT" duration-ms="7751" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Invalid Login Functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login functionality related feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.LoginValidation@5e5d171f]" started-at="2024-06-06T16:48:43 MDT" name="tearDownClass" finished-at="2024-06-06T16:48:43 MDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.LoginValidation -->
+      <class name="runner.UserNameValidate">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.UserNameValidate@24313fcc]" started-at="2024-06-06T16:48:43 MDT" name="setUpClass" finished-at="2024-06-06T16:48:43 MDT" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6cbb175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UserNameValidate@24313fcc]" started-at="2024-06-06T16:48:43 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:48:50 MDT" duration-ms="7485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To verify that the user enters the valid user name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login functionality realted test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UserNameValidate@24313fcc]" started-at="2024-06-06T16:48:50 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:48:59 MDT" duration-ms="8499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login to the application"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login functionality realted test cases"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.UserNameValidate@24313fcc]" started-at="2024-06-06T16:48:59 MDT" name="tearDownClass" finished-at="2024-06-06T16:48:59 MDT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.UserNameValidate -->
+      <class name="runner.SignUpValidation">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.SignUpValidation@7d20d0b]" started-at="2024-06-06T16:48:59 MDT" name="setUpClass" finished-at="2024-06-06T16:48:59 MDT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6cbb175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.SignUpValidation@7d20d0b]" started-at="2024-06-06T16:48:59 MDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-06T16:49:07 MDT" duration-ms="8356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Registration functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration related feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the webpagehttps://www.demoblaze.com/]]>
+            </line>
+            <line>
+              <![CDATA[Click the login buttonRemoteWebDriver: firefox on Windows 11 (4c870ecf-ce6a-4790-a398-ab12aa30f961)]]>
+            </line>
+            <line>
+              <![CDATA[Enter the detailsBy.id: sign-usernametestusr3]]>
+            </line>
+            <line>
+              <![CDATA[Enter the detailsBy.id: sign-passwordpassword1]]>
+            </line>
+            <line>
+              <![CDATA[Click the login buttonRemoteWebDriver: firefox on Windows 11 (4c870ecf-ce6a-4790-a398-ab12aa30f961)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.SignUpValidation@7d20d0b]" started-at="2024-06-06T16:49:07 MDT" name="tearDownClass" finished-at="2024-06-06T16:49:07 MDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.SignUpValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

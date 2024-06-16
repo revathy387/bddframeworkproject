@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [ProjectAutomationBrowserTesting]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="FirefoxBrowserTesting(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="runner.SignUpValidation">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- runner.SignUpValidation -->
+    </classes>
+  </test> <!-- FirefoxBrowserTesting(failed) -->
+  <test thread-count="1" parallel="tests" name="ChromeBrowserTesting(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="runner.SignUpValidation">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- runner.SignUpValidation -->
+    </classes>
+  </test> <!-- ChromeBrowserTesting(failed) -->
+</suite> <!-- Failed suite [ProjectAutomationBrowserTesting] -->
